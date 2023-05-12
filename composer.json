@@ -1,0 +1,17 @@
+{
+  "name": "UsamaMalik7/usama_project",
+  "description": "A simple hello world composer package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Usama Malik",
+      "email": "usamam744@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {"UsamaMalik7\\usama_project\\": "src/"}
+  },
+  "require": {}
+}
