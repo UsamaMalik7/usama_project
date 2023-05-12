@@ -13,5 +13,7 @@
   "autoload": {
     "psr-4": {"usamamalik7\\HelloWorld\\": "src/"}
   },
-  "require": {}
+  "require": {
+    "usama-malik7/usama_project": "1.0.0"
+  }
 }

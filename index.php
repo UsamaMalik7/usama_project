@@ -1,6 +1,6 @@
 <?php
 
-namespace vitalis\HelloWorld;
+namespace usamamalik7\HelloWorld;
 
 class Index
 {
